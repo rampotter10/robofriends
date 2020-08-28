@@ -60,4 +60,5 @@ export const robot = [
       email: 'cc.mishu@gmail.com'
     }
   ];
+  export default robot;
   
